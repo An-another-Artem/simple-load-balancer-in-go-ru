@@ -16,13 +16,13 @@
 
 **Алгоритм Round Robin**
 
-Изображение алгоритма Round Robin: [https://www.jscape.com/hubfs/images/round_robin_algorithm-1.png](https://www.jscape.com/hubfs/images/round_robin_algorithm-1.png)
+<img src="https://www.jscape.com/hubfs/images/round_robin_algorithm-1.png">
 
 В Round Robin запросы циклически проходят через все доступные серверы, независимо от их текущей загрузки.
 
 **Алгоритм Least Connections (реализовано)**
 
-Изображение алгоритма Least Connections: [https://www.codereliant.io/content/images/2023/06/d1-1-1.png](https://www.codereliant.io/content/images/2023/06/d1-1-1.png)
+<img src="https://www.codereliant.io/content/images/2023/06/d1-1-1.png">
 
 Этот алгоритм отслеживает количество **активных соединений** на каждом сервере и направляет новые запросы на сервер с **наименьшим количеством соединений**, стремясь к **равномерному распределению нагрузки**.
 
