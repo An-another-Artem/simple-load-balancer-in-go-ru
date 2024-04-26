@@ -1,6 +1,6 @@
 <h1>Простой балансировщик нагрузки в Go</h1>
 
-**Английская версия с исходным кодом:** https://github.com/An-another-Artem/simple-load-balancer-in-go
+**Английская версия с исходным кодом:** [здесь](https://github.com/An-another-Artem/simple-load-balancer-in-go)
 
 **Что такое балансировщик нагрузки?**
 
